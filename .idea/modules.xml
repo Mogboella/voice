@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/RateUs.iml" filepath="$PROJECT_DIR$/.idea/RateUs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RateUs/Code/voice.iml" filepath="$PROJECT_DIR$/RateUs/Code/voice.iml" />
+    </modules>
+  </component>
+</project>
